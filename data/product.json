@@ -1,0 +1,215 @@
+[
+     {
+        "id": 1,
+        "images": [
+            "/img/product/01-industrial-housekeeping/big-dustbin.jpg"
+        ],
+        "title": "Big Dustbin",
+        "rating": 4,
+        "categoryid": 1,
+        "category": [
+            "industrial-housekeeping"
+        ],
+        "tag": [
+            "industrial",
+            "housekeeping",
+            "dustbin",
+            "cleaning"
+        ],
+        "description": "A big dustbin is a large container used for the storage and disposal of waste. These bins are typically made from durable materials such as plastic or metal, and are designed to withstand heavy use in both indoor and outdoor environments. "
+    },
+    {
+        "id": 2,
+        "images": [
+            "/img/product/01-industrial-housekeeping/carry-basket.jpg"
+        ],
+        "title": "Carry Basket",
+        "rating": 4,
+        "categoryid": 1,
+        "category": [
+            "industrial-housekeeping"
+        ],
+        "tag": [
+            "industrial",
+            "housekeeping",
+            "carry",
+            "basket"
+        ],
+        "description": "A carry basket is a portable container designed to be transported by hand. It is typically made of woven or plaited materials such as wicker, rattan, or bamboo and is used for carrying items such as groceries, laundry, or personal belongings."
+    },
+    {
+        "id": 3,
+         "images": [
+            "/img/product/01-industrial-housekeeping/cleaning-kit-01.jpg",
+            "/img/product/01-industrial-housekeeping/cleaning-kit-02.jpg"
+        ],
+        "title": "Cleaning Kit",
+        "rating": 4,
+        "categoryid": 1,
+        "category": [
+            "industrial-housekeeping"
+        ],
+        "tag": [
+            "industrial",
+            "housekeeping",
+            "cleaningkit",
+            "cleaning",
+            "kit"
+        ],
+        "description": "An industrial cleaning kit is a collection of tools and supplies designed for the efficient and effective cleaning of heavy-duty equipment and machinery. These kits typically include a variety of brushes, sprays, solvents, and other specialized items for removing dirt, grime, and other contaminants from surfaces. They are commonly used in manufacturing plants, workshops, and other industrial settings where equipment needs to be kept in top condition."
+    },
+    {
+        "id": 4,
+         "images": [
+            "/img/product/01-industrial-housekeeping/dry-mop-01.jpg",
+            "/img/product/01-industrial-housekeeping/dry-mop-02.jpg"
+        ],
+        "title": "Dry Mop",
+        "rating": 4,
+        "categoryid": 1,
+        "category": [
+            "industrial-housekeeping"
+        ],
+        "tag": [
+            "industrial",
+            "housekeeping",
+            "drymop",
+            "mop"
+        ],
+        "description": "A dry mop is a type of mop used in industrial settings to clean floors and other surfaces without the use of water or cleaning solutions. It is typically made of absorbent materials such as microfiber, cotton, or synthetic fibers, and is designed to pick up and trap dust, debris, and other particulates."
+    },
+    {
+        "id": 5,
+         "images": [
+            "/img/product/02-freshner-and-diffuser-oil/diffuser-machine-01.jpg",
+            "/img/product/02-freshner-and-diffuser-oil/diffuser-machine-02.jpg"
+        ],
+        "title": "Diffuser Machine",
+        "rating": 4,
+        "categoryid": 2,
+        "category": [
+            "freshner-and-diffuser-oil"
+        ],
+        "tag": [
+            "diffuser-oil",
+            "freshner",
+            "diffuser",
+            "diffusermachine"
+        ],
+        "description": "A diffuser machine is a device used to disperse and distribute a substance, such as a fragrance, essential oil, or mist, into the air. It works by using air or ultrasonic waves to create tiny droplets that are then spread throughout a space. Diffuser machines can be used for a variety of purposes, including aromatherapy, air freshening, and humidification. There are several types of diffuser machines available, including ultrasonic, nebulizing, and heat-based diffusers."
+    },
+    {
+        "id": 6,
+        "images": [
+            "/img/product/02-freshner-and-diffuser-oil/diffuser-oil.jpg"
+        ],
+        "title": "Diffuser Oil",
+        "rating": 4,
+        "categoryid": 2,
+        "category": [
+            "freshner-and-diffuser-oil"
+        ],
+        "tag": [
+            "diffuser-oil",
+            "freshner",
+            "diffuser",
+            "diffuseroil"
+        ],
+        "description": "Diffuser oil, also known as essential oil, is a concentrated liquid that is used in diffuser machines to disperse the scent of natural oils into the air. These oils are derived from plants and are known for their therapeutic and aromatherapy benefits. They come in a wide range of scents, including floral, herbaceous, citrus, and woodsy, and can be used to create a calming, relaxing, or invigorating atmosphere. "
+    },
+    {
+        "id": 7,
+        "images": [
+            "/img/product/01-industrial-housekeeping/toilet-brush.jpg"
+        ],
+        "title": "Toilet Brush",
+        "rating": 4,
+        "categoryid": 1,
+        "category": [
+            "industrial-housekeeping"
+        ],
+        "tag": [
+            "industrial",
+            "houseeeping",
+            "toiletbrush",
+            "cleaning"
+        ],
+        "description": "A toilet brush is a cleaning tool used for scrubbing the inside of a toilet bowl. It typically consists of a long handle with a round, bristled brush head attached to one end. The brush head is used to scrub the sides and bottom of the toilet bowl, removing dirt, grime, and other build-up to keep the toilet clean and hygienic. "
+    },
+    {
+        "id": 8,
+        "images": [
+            "/img/product/05-cleaning-chemicals/sodium-hypochlorite.jpg"
+        ],
+        "title": "Sodium Hypochlorite",
+        "rating": 4,
+        "categoryid": 5,
+        "category": [
+            "cleaning-chemicals"
+        ],
+        "tag": [
+            "chemical",
+            "cleaning"
+        ],
+        "description": "Sodium Hypochlorite is a bleach or disinfectant, and is capable of killing pathogens like bacteria, viruses, fungi and mycobacterium. It can be used as a household cleaner, thanks to its destaining properties, and may also be an ingredient in laundry detergents and deodorizing products."
+    },
+    {
+        "id": 9,
+        "images": [
+            "/img/product/01-industrial-housekeeping/dust-pan-01.jpg",
+            "/img/product/01-industrial-housekeeping/dust-pan-02.jpg"
+        ],
+        "title": "Dust Pan",
+        "rating": 4,
+        "categoryid": 1,
+        "category": [
+            "industrial-housekeeping"
+        ],
+        "tag": [
+            "industrial",
+            "houseeeping",
+            "dustpan",
+            "pan"
+        ],
+        "description": "Keeping home clean & hygienic is an everyday necessity. A healthy & hygienic surrounding helps maintaining good personal heath. our aim is to make home cleaning less like chore & more convenient these impeccably designed easy to use & easy to maintain products range from toilet brushes, sink brushes, broom brushes, tile brushes, cob web brushes, dust pans, bathroom wipers, kitchen wipers to sponge wipes & utensils scrubs. All our products are designed & manufactured with long term durability in mind."
+    },
+    {
+        "id": 10,
+        "images": [
+            "/img/product/01-industrial-housekeeping/wet-mop-01.jpg",
+            "/img/product/01-industrial-housekeeping/wet-mop-02.jpg"
+        ],
+        "title": "Wet Mop",
+        "rating": 4,
+        "categoryid": 1,
+        "category": [
+            "industrial-housekeeping"
+        ],
+        "tag": [
+            "industrial",
+            "houseeeping",
+            "wetmop",
+            "wet"
+        ],
+        "description": "Keeping home clean & hygienic is an everyday necessity. A healthy & hygienic surrounding helps maintaining good personal heath. our aim is to make home cleaning less like chore & more convenient these impeccably designed easy to use & easy to maintain products range from toilet brushes, sink brushes, broom brushes, tile brushes, cob web brushes, dust pans, bathroom wipers, kitchen wipers to sponge wipes & utensils scrubs. All our products are designed & manufactured with long term durability in mind."
+    },
+    {
+        "id": 10,
+        "images": [
+            "/img/product/01-industrial-housekeeping/industrial-mat-01.jpg",
+            "/img/product/01-industrial-housekeeping/industrial-mat-02.jpg"
+        ],
+        "title": "Industrial Mat",
+        "rating": 4,
+        "categoryid": 1,
+        "category": [
+            "industrial-housekeeping"
+        ],
+        "tag": [
+            "industrial",
+            "houseeeping",
+            "mat"
+        ],
+        "description": "Industrial mats are essential components in various industrial settings, providing safety, comfort, and durability. They serve as floor covering materials in areas where workers spend a lot of time standing, such as manufacturing facilities, warehouses, and workshops."
+    }
+]
