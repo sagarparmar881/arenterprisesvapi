@@ -264,8 +264,6 @@
             inquireNow: function (product) {
                 let message = `Hello! I am interested to know about the product,
                 %0aTitle: *${product.title}*
-                %0aPrice: *${product.price}*
-                %0aQuantity: *${this.singleQuantity}*
                 %0a%0aPlease provide me the further details. Thank You!`;
                 //alert(message); 09824139769
                 location.href=`https://wa.me/919824139769/?text=${message}`
