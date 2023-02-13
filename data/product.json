@@ -211,5 +211,103 @@
             "mat"
         ],
         "description": "Industrial mats are essential components in various industrial settings, providing safety, comfort, and durability. They serve as floor covering materials in areas where workers spend a lot of time standing, such as manufacturing facilities, warehouses, and workshops."
+    },
+    {
+        "id": 11,
+        "images": [
+            "/img/product/01-industrial-housekeeping/wet-mop-01.jpg",
+            "/img/product/01-industrial-housekeeping/wet-mop-02.jpg"
+        ],
+        "title": "Wet Mop",
+        "rating": 4,
+        "categoryid": 1,
+        "category": [
+            "industrial-housekeeping"
+        ],
+        "tag": [
+            "industrial",
+            "houseeeping",
+            "wetmop",
+            "mop"
+        ],
+        "description": "Wet floor mop set is perfect for commercial and home floor cleaning jobs. And it includes a good quality head with looped ends for optimal absorption without fraying."
+    },
+    {
+        "id": 12,
+        "images": [
+            "/img/product/01-industrial-housekeeping/wringer-trolley-01.jpg",
+            "/img/product/01-industrial-housekeeping/wringer-trolley-02.jpg"
+        ],
+        "title": "Wringer Trolley",
+        "rating": 4,
+        "categoryid": 1,
+        "category": [
+            "industrial-housekeeping"
+        ],
+        "tag": [
+            "industrial",
+            "houseeeping",
+            "wringertrolley",
+            "trolley"
+        ],
+        "description": "Easy to mop and squeeze dirty water without getting your hands wet or dirty. Light weight and easy to maneuver thanks to 4 castor wheels"
+    },
+    {
+        "id": 13,
+        "images": [
+            "/img/product/01-industrial-housekeeping/urinal-screen-01.jpg",
+            "/img/product/01-industrial-housekeeping/urinal-screen-02.jpg"
+        ],
+        "title": "Urinal Screen",
+        "rating": 4,
+        "categoryid": 1,
+        "category": [
+            "industrial-housekeeping"
+        ],
+        "tag": [
+            "industrial",
+            "houseeeping",
+            "urinalscreen",
+            "urinal"
+        ],
+        "description": "Wide range of Urinal Screen with strong & Mild Fragrances."
+    },
+    {
+        "id": 14,
+        "images": [
+            "/img/product/03-swimming-pool-cleaning-material/swimming-pool-ladder-01.jpg",
+            "/img/product/03-swimming-pool-cleaning-material/swimming-pool-ladder-02.jpg"
+        ],
+        "title": "Swimming Pool Ladder",
+        "rating": 4,
+        "categoryid": 3,
+        "category": [
+            "swimming-pool-cleaning-material"
+        ],
+        "tag": [
+            "swimming",
+            "pool",
+            "ladder",
+            "swimmingpool"
+        ],
+        "description": "This pool ladder is made by high quality stainless material which could let this item would not stain in the swimming pool and would not pollute the water in the swimming pool, durable for years."
+    },
+    {
+        "id": 15,
+        "images": [
+            "/img/product/03-swimming-pool-cleaning-material/tcca-01.jpg"
+        ],
+        "title": "TCCA Granules",
+        "rating": 4,
+        "categoryid": 3,
+        "category": [
+            "swimming-pool-cleaning-material"
+        ],
+        "tag": [
+            "swimming",
+            "pool",
+            "granules"
+        ],
+        "description": "Used in the swimming pool for cleaning purpose. "
     }
 ]
