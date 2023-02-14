@@ -309,5 +309,65 @@
             "granules"
         ],
         "description": "Used in the swimming pool for cleaning purpose. "
+    },
+    {
+        "id": 16,
+        "images": [
+            "/img/product/03-swimming-pool-cleaning-material/swimming-pool-hose-01.jpg",
+            "/img/product/03-swimming-pool-cleaning-material/swimming-pool-hose-02.jpg"
+        ],
+        "title": "Swimming Pool Hose",
+        "rating": 4,
+        "categoryid": 3,
+        "category": [
+            "swimming-pool-cleaning-material"
+        ],
+        "tag": [
+            "swimming",
+            "pool",
+            "hose",
+            "vaccum"
+        ],
+        "description": "The vacuum hose for swimming pools is made to withstand strong pump suction without collapsing, twisting, or straining. The heavy-duty hose, which is composed of heavier weight material and is guaranteed not to collapse even under demanding operating conditions and maximum suction and rigorous operating conditions. "
+    },
+    {
+        "id": 17,
+        "images": [
+            "/img/product/03-swimming-pool-cleaning-material/swimming-cleaning-brush-01.jpg",
+            "/img/product/03-swimming-pool-cleaning-material/swimming-cleaning-brush-02.jpg"
+        ],
+        "title": "Swimming Pool Cleaning Brush",
+        "rating": 4,
+        "categoryid": 3,
+        "category": [
+            "swimming-pool-cleaning-material"
+        ],
+        "tag": [
+            "swimming",
+            "pool",
+            "cleaning",
+            "brush"
+        ],
+        "description": "Pool brush for clearing any pools of dirt and algae, hot tub and spa surfaces. Durable all-weather materials withstand high temperatures. Curved brush design is perfect for cleaning pool walls, pool floors or any pool surface. "
+    },
+    {
+        "id": 18,
+        "images": [
+            "/img/product/03-swimming-pool-cleaning-material/swimming-net-01.jpg",
+            "/img/product/03-swimming-pool-cleaning-material/swimming-net-02.jpg"
+        ],
+        "title": "Swimming Net",
+        "rating": 4,
+        "categoryid": 3,
+        "category": [
+            "swimming-pool-cleaning-material"
+        ],
+        "tag": [
+            "swimming",
+            "pool",
+            "net",
+            "swimmingnet"
+        ],
+        "description": "Swimming Net used to clean swimming pools. Utilize the skimmer deep bag, which has a large capacity and a fine mesh for capturing small waste like pine cones and small twigs as well as trapping floating trash and even the smallest insects. "
     }
 ]
