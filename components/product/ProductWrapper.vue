@@ -1,7 +1,8 @@
 <template>
     <div class="product-area pb-90">
         <div class="container">
-            <SectionTitleWithSubTitle title="DAILY DEALS!" classes="section-title" v-if="isSectionTitle ? true : false" />
+            <SectionTitleWithSubTitle title="OUR PRODUCTS!" classes="section-title" v-if="isSectionTitle ? true : false" />
+            <SectionTitleWithSubTitle title="OUR PRODUCTS" classes="section-title"/>
 
             <ul class="nav product-tab-list pt-30 pb-55 justify-content-center">
                 <li class="nav-item" role="presentation">
@@ -26,35 +27,35 @@
             <div class="tab-content">
                 <div class="tab-pane fade show active" id="categoryone" role="tabpanel">
                     <div class="row">
-                        <div class="col-xl-3 col-lg-4 col-sm-6 col-6" v-for="(product, index) in categoryOne.slice(0, 8)" :key="index">
+                        <div class="col-xl-3 col-lg-4 col-sm-4 col-4" v-for="(product, index) in categoryOne.slice(0, 8)" :key="index">
                             <ProductGridItem :product="product" :layout="layout" />
                         </div>
                     </div>
                 </div>
                 <div class="tab-pane fade " id="categorytwo" role="tabpanel">
                     <div class="row">
-                        <div class="col-xl-3 col-lg-4 col-sm-6 col-6" v-for="(product, index) in categoryTwo.slice(0, 8)" :key="index">
+                        <div class="col-xl-3 col-lg-4 col-sm-4 col-4" v-for="(product, index) in categoryTwo.slice(0, 8)" :key="index">
                             <ProductGridItem :product="product" :layout="layout" />
                         </div>
                     </div>
                 </div>
                 <div class="tab-pane fade" id="categorythree" role="tabpanel">
                     <div class="row">
-                        <div class="col-xl-3 col-lg-4 col-sm-6 col-6" v-for="(product, index) in categoryThree.slice(0, 8)" :key="index">
+                        <div class="col-xl-3 col-lg-4 col-sm-4 col-4" v-for="(product, index) in categoryThree.slice(0, 8)" :key="index">
                             <ProductGridItem :product="product" :layout="layout" />
                         </div>
                     </div>
                 </div>
                 <div class="tab-pane fade" id="categoryfour" role="tabpanel">
                     <div class="row">
-                        <div class="col-xl-3 col-lg-4 col-sm-6 col-6" v-for="(product, index) in categoryFour.slice(0, 8)" :key="index">
+                        <div class="col-xl-3 col-lg-4 col-sm-4 col-4" v-for="(product, index) in categoryFour.slice(0, 8)" :key="index">
                             <ProductGridItem :product="product" :layout="layout" />
                         </div>
                     </div>
                 </div>
                 <div class="tab-pane fade" id="categoryfive" role="tabpanel">
                     <div class="row">
-                        <div class="col-xl-3 col-lg-4 col-sm-6 col-6" v-for="(product, index) in categoryFive.slice(0, 8)" :key="index">
+                        <div class="col-xl-3 col-lg-4 col-sm-4 col-4" v-for="(product, index) in categoryFive.slice(0, 8)" :key="index">
                             <ProductGridItem :product="product" :layout="layout" />
                         </div>
                     </div>
