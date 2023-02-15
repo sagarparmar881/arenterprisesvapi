@@ -1,5 +1,4 @@
-[
-     {
+[{
         "id": 1,
         "images": [
             "/img/product/01-industrial-housekeeping/big-dustbin.jpg"
@@ -39,7 +38,7 @@
     },
     {
         "id": 3,
-         "images": [
+        "images": [
             "/img/product/01-industrial-housekeeping/cleaning-kit-01.jpg",
             "/img/product/01-industrial-housekeeping/cleaning-kit-02.jpg"
         ],
@@ -60,7 +59,7 @@
     },
     {
         "id": 4,
-         "images": [
+        "images": [
             "/img/product/01-industrial-housekeeping/dry-mop-01.jpg",
             "/img/product/01-industrial-housekeeping/dry-mop-02.jpg"
         ],
@@ -80,7 +79,7 @@
     },
     {
         "id": 5,
-         "images": [
+        "images": [
             "/img/product/02-freshner-and-diffuser-oil/diffuser-machine-01.jpg",
             "/img/product/02-freshner-and-diffuser-oil/diffuser-machine-02.jpg"
         ],
@@ -120,7 +119,9 @@
     {
         "id": 7,
         "images": [
-            "/img/product/01-industrial-housekeeping/toilet-brush.jpg"
+            "/img/product/01-industrial-housekeeping/toilet-brush-01.jpg",
+            "/img/product/01-industrial-housekeeping/toilet-brush-02.jpg",
+            "/img/product/01-industrial-housekeeping/toilet-brush-03.jpg"
         ],
         "title": "Toilet Brush",
         "rating": 4,
@@ -236,7 +237,9 @@
         "id": 12,
         "images": [
             "/img/product/01-industrial-housekeeping/wringer-trolley-01.jpg",
-            "/img/product/01-industrial-housekeeping/wringer-trolley-02.jpg"
+            "/img/product/01-industrial-housekeeping/wringer-trolley-02.jpg",
+            "/img/product/01-industrial-housekeeping/wringer-trolley-03.jpg",
+            "/img/product/01-industrial-housekeeping/wringer-trolley-04.jpg"
         ],
         "title": "Wringer Trolley",
         "rating": 4,
@@ -369,5 +372,87 @@
             "swimmingnet"
         ],
         "description": "Swimming Net used to clean swimming pools. Utilize the skimmer deep bag, which has a large capacity and a fine mesh for capturing small waste like pine cones and small twigs as well as trapping floating trash and even the smallest insects. "
+    },
+    {
+        "id": 19,
+        "images": [
+            "/img/product/03-swimming-pool-cleaning-material/tcca-tablets-01.jpg",
+            "/img/product/03-swimming-pool-cleaning-material/tcca-tablets-02.jpg",
+            "/img/product/03-swimming-pool-cleaning-material/tcca-drum-01.jpg"
+        ],
+        "title": "Swimming Pool TCCA Tablets / Drum",
+        "rating": 4,
+        "categoryid": 3,
+        "category": [
+            "swimming-pool-cleaning-material"
+        ],
+        "tag": [
+            "swimming",
+            "pool",
+            "tcca",
+            "tablets",
+            "tabletdrum",
+            "drum"
+        ],
+        "description": "Contains 90% chlorine in a high concentration in a stable, soluble form. Powerful biofilm and algae cleanser. Designed for all types of swimming pools. Destroys microorganisms and keeps water clean."
+    },
+    {
+        "id": 20,
+        "images": [
+            "/img/product/01-industrial-housekeeping/toilet-cleaner-01.jpg",
+            "/img/product/01-industrial-housekeeping/toilet-cleaner-02.jpg"
+        ],
+        "title": "Toilet Cleaner",
+        "rating": 4,
+        "categoryid": 1,
+        "category": [
+            "industrial-housekeeping"
+        ],
+        "tag": [
+            "industrial",
+            "toilet",
+            "cleaner"
+        ],
+        "description": "DOCTOR SHINE is an advance formulations for cleaning all types of toilet. It removes all tough stain & Kills more than 99% germs."
+    },
+    {
+        "id": 21,
+        "images": [
+            "/img/product/01-industrial-housekeeping/wiper-01.jpg",
+            "/img/product/01-industrial-housekeeping/wiper-02.jpg"
+        ],
+        "title": "Floor Wiper",
+        "rating": 4,
+        "categoryid": 1,
+        "category": [
+            "industrial-housekeeping"
+        ],
+        "tag": [
+            "industrial",
+            "houseeeping",
+            "floor",
+            "wiper"
+        ],
+        "description": "Helps instantly dry floors with single swipe clean. Wiper comes with a Stainless Steel long pipe. Sharp rubber edge for instant cleaning"
+    },
+    {
+        "id": 22,
+        "images": [
+            "/img/product/01-industrial-housekeeping/ladder-01.jpg",
+            "/img/product/01-industrial-housekeeping/ladder-02.jpg"
+        ],
+        "title": "Ladder",
+        "rating": 4,
+        "categoryid": 1,
+        "category": [
+            "industrial-housekeeping"
+        ],
+        "tag": [
+            "industrial",
+            "toilet",
+            "ladder"
+        ],
+        "description": "Helps instantly dry floors with single swipe clean. Wiper comes with a Stainless Steel long pipe. Sharp rubber edge for instant cleaning"
     }
+
 ]
