@@ -131,7 +131,7 @@
         ],
         "tag": [
             "industrial",
-            "houseeeping",
+            "housekeeping",
             "toiletbrush",
             "cleaning"
         ],
@@ -168,7 +168,7 @@
         ],
         "tag": [
             "industrial",
-            "houseeeping",
+            "housekeeping",
             "dustpan",
             "pan"
         ],
@@ -188,7 +188,7 @@
         ],
         "tag": [
             "industrial",
-            "houseeeping",
+            "housekeeping",
             "wetmop",
             "wet"
         ],
@@ -208,7 +208,7 @@
         ],
         "tag": [
             "industrial",
-            "houseeeping",
+            "housekeeping",
             "mat"
         ],
         "description": "Industrial mats are essential components in various industrial settings, providing safety, comfort, and durability. They serve as floor covering materials in areas where workers spend a lot of time standing, such as manufacturing facilities, warehouses, and workshops."
@@ -227,7 +227,7 @@
         ],
         "tag": [
             "industrial",
-            "houseeeping",
+            "housekeeping",
             "wetmop",
             "mop"
         ],
@@ -249,7 +249,7 @@
         ],
         "tag": [
             "industrial",
-            "houseeeping",
+            "housekeeping",
             "wringertrolley",
             "trolley"
         ],
@@ -269,7 +269,7 @@
         ],
         "tag": [
             "industrial",
-            "houseeeping",
+            "housekeeping",
             "urinalscreen",
             "urinal"
         ],
@@ -429,7 +429,7 @@
         ],
         "tag": [
             "industrial",
-            "houseeeping",
+            "housekeeping",
             "floor",
             "wiper"
         ],
@@ -453,6 +453,86 @@
             "ladder"
         ],
         "description": "Helps instantly dry floors with single swipe clean. Wiper comes with a Stainless Steel long pipe. Sharp rubber edge for instant cleaning"
+    },
+    {
+        "id": 23,
+        "images": [
+            "/img/product/01-industrial-housekeeping/liquid-detergent-01.jpg",
+            "/img/product/01-industrial-housekeeping/liquid-detergent-02.jpg"
+        ],
+        "title": "Liquid Detergent",
+        "rating": 4,
+        "categoryid": 1,
+        "category": [
+            "industrial-housekeeping"
+        ],
+        "tag": [
+            "industrial",
+            "housekeeping",
+            "liquid",
+            "detergent"
+        ],
+        "description": "For tough stains, pre-soaking in detergent soultion."
+    },
+    {
+        "id": 24,
+        "images": [
+            "/img/product/01-industrial-housekeeping/multisurface-floor-cleaner-01.jpg",
+            "/img/product/01-industrial-housekeeping/multisurface-floor-cleaner-02.jpg"
+        ],
+        "title": "Multisurface Floor Cleaner",
+        "rating": 4,
+        "categoryid": 1,
+        "category": [
+            "industrial-housekeeping"
+        ],
+        "tag": [
+            "industrial",
+            "housekeeping",
+            "floor",
+            "cleaner",
+            "multisurface"
+        ],
+        "description": "A hygenic home cleaner having powerful formula which dislodg dirt and stains completely, cleaning prevents the gems leaving behind pleasant floral fragrance."
+    },
+    {
+        "id": 25,
+        "images": [
+            "/img/product/01-industrial-housekeeping/liquid-dishwash-01.jpg",
+            "/img/product/01-industrial-housekeeping/liquid-dishwash-02.jpg"
+        ],
+        "title": "Liquid Dishwash",
+        "rating": 4,
+        "categoryid": 1,
+        "category": [
+            "industrial-housekeeping"
+        ],
+        "tag": [
+            "industrial",
+            "housekeeping",
+            "liquid",
+            "dishwash"
+        ],
+        "description": "It gives shine to utensils. Neutralises odour. Removes tough oil and grease."
+    },
+    {
+        "id": 26,
+        "images": [
+            "/img/product/01-industrial-housekeeping/white-phenyl-01.jpg",
+            "/img/product/01-industrial-housekeeping/white-phenyl-02.jpg"
+        ],
+        "title": "White Phenyl",
+        "rating": 4,
+        "categoryid": 1,
+        "category": [
+            "industrial-housekeeping"
+        ],
+        "tag": [
+            "industrial",
+            "housekeeping",
+            "phenyl"
+        ],
+        "description": "A hygienic home cleaner having powerful formula which dislodge dirt and stains completely, cleaning prevents the gems leaving behind Fresh Pine fragrance. Keep mosquitos, files and ants away."
     }
 
 ]
