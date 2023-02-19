@@ -35,3 +35,5 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 https://arenterprisesvapi.vercel.app/
 
+http://arenterprisesvapi.com/
+
