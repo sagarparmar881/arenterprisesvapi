@@ -1,14 +1,16 @@
 <template>
     <div class="shop-page-wrapper">
         <HeaderWithTopbar containerClass="container" />
-        <Breadcrumb pageTitle="shop grid standard" />
+        <SectionTitleWithSubTitle classes="section-title-2 mt-30 p-3" title="Our Products" subTitle="Choose from wide range of products from various categories." />
         
-        <!-- product items wrapper -->
-        <div class="shop-area pt-100 pb-100">
+       <!-- product items wrapper -->
+        <div class="shop-area pb-60">
             <div class="container">
-                <div class="row flex-row-reverse">
-
-                    <div class="col-lg-9">
+                <div class="row">
+                    <ShopTopbar classes="ml-30" />
+                </div>
+                <div class="row">
+                    <div class="col-lg-12 mt-30">
                         <!-- shop top bar -->
                         <div class="shop-top-bar">
                             <div class="select-showing-wrap">
@@ -38,7 +40,7 @@
                         <!-- shop product -->
                         <div class="shop-bottom-area mt-35">
                             <div class="row product-layout" :class="{ 'list': layout === 'list', 'grid three-column': layout === 'threeColumn', 'grid two-column': layout === 'twoColumn' }">
-                                <div class="col-xl-4 col-sm-6 col-6" v-for="(product, index) in getItems" :key="index" >
+                                <div class="col-xl-2 col-sm-6 col-6" v-for="(product, index) in getItems" :key="index" >
                                     <ProductGridItem :product="product" :layout="layout"  />
                                 </div>
                             </div>
@@ -50,11 +52,10 @@
                         </div>
                     </div>
 
-                     <div class="col-lg-3">
-                        <ShopSidebar classes="mr-30" />
-                    </div>
-
-                    
+                    <!-- <div class="col-lg-3">
+                            <ShopTopbar classes="ml-30" /> 
+                            Hidden Default Sidebar of Template and added on above to filter. 
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -84,7 +85,7 @@
                 prevSelectedSizeName: '',
                 prevSelectedColorName: '',
                 currentPage: 1,
-                perPage: 9,
+                perPage: 12,
                 selectedPrice: 'default'
             }
         },

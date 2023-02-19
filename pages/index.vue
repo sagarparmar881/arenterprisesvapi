@@ -10,7 +10,7 @@
 
         
         <!-- product items wrapper -->
-        <div class="shop-area pb-100">
+        <div class="shop-area pb-60">
             <div class="container">
                 <div class="row">
                     <ShopTopbar classes="ml-30" />
@@ -68,6 +68,7 @@
         <!-- end product items wrapper -->
 
         <QuickView />
+        <CallNow />
         <TheFooter />
     </div>
 </template>
