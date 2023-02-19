@@ -1,6 +1,6 @@
 <template>
     <div class="sidebar-style" :class="classes">
-        <div class="sidebar-widget">
+        <!-- <div class="sidebar-widget">
             <h4 class="pro-sidebar-title">Search</h4>
             <div class="pro-sidebar-search mb-50 mt-25">
                 <form class="pro-sidebar-search-form">
@@ -10,7 +10,7 @@
                     </button>
                 </form>
             </div>
-        </div>
+        </div> -->
 
         <!-- category widget  -->
         <div class="sidebar-widget">
@@ -26,7 +26,7 @@
         </div>
 
         <!-- color widget  -->
-        <div class="sidebar-widget mt-50">
+        <!-- <div class="sidebar-widget mt-50">
             <h4 class="pro-sidebar-title">Colour</h4>
             <ul class="sidebar-widget-list mt-20">
                 <li class="sidebar-widget-list-left" v-for="(color, index) in colorList" :key="index" >
@@ -36,10 +36,10 @@
                     </n-link>
                 </li>
             </ul>
-        </div>
+        </div> -->
 
         <!-- size widget  -->
-        <div class="sidebar-widget mt-50">
+       <!--  <div class="sidebar-widget mt-50">
             <h4 class="pro-sidebar-title">Sizes</h4>
             <ul class="sidebar-widget-list mt-20">
                 <li class="sidebar-widget-list-left" v-for="(size, index) in sizeList" :key="index" >
@@ -49,7 +49,7 @@
                     </n-link>
                 </li>
             </ul>
-        </div>
+        </div> -->
 
         <!-- tag widget  -->
         <div class="sidebar-widget sidebar-widget__tag mt-60">
