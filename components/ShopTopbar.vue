@@ -39,16 +39,21 @@
         </div> -->
 
         <!-- New Categories widget  -->
-        <div class="sidebar-widget sidebar-widget__tag mt-60">
+        <div class="sidebar-widget sidebar-widget__tag">
             <!-- <h4 class="pro-sidebar-title">Categories</h4> -->
             <div class="sidebar-widget-tag mt-30">
-                <ul class="list-group flex-column flex-sm-row">
-                    <li class="list-group-item borderless" v-for="(category, index) in categoryList" :key="index">
-                    <n-link :to="`?category=${slugify(category)}`">
-                        <span class="check-mark"></span>
-                        {{ category }}
-                    </n-link>
-                </li>
+                <!-- <ul class="list-group flex-sm-row"> -->
+                <ul class="container float">
+
+                    <li class="float-item" v-for="(category, index) in categoryList" :key="index" style="
+                     padding: 5px; margin: 10px;">
+                        <n-link :to="`?category=${slugify(category)}`">
+            
+                            
+                            {{ category }}
+                        
+                        </n-link>
+                    </li>
                 </ul>
             </div>
         </div>

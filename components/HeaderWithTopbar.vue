@@ -33,32 +33,29 @@
             <div class="header-padding-1 sticky-bar header-res-padding clearfix" :class="{'is-sticky': isSticky}">
                 <div :class="containerClass">
                     <div class="row">
-                        <div class="col-lg-2 col-md-6 col-4">
+                        <div class="col-lg-3 col-md-6 col-4">
                             <div class="logo">
                                 <n-link to="/">
                                     <img src="/img/logo/logo.png" alt="flone logo">
                                 </n-link>
                             </div>
                         </div>
-                        <div class="col-lg-8 d-none d-lg-block">
+                        <div class="col-lg-6 d-none d-lg-block">
                             <div class="main-menu">
                                 <nav>
                                     <Navigation />
                                 </nav>
                             </div>
                         </div>
-                        <div class="col-lg-2 col-md-6 col-8">
+                        <div class="col-lg-3 col-md-6 col-8">
                             <div class="header-right-wrap">
                                 <div class="same-style header-search d-none d-lg-block">
-                                    <button class="search-active" @click="isOpenSearch = !isOpenSearch"><i class="pe-7s-search"></i></button>
-                                    <div class="search-content" :class="{ active:isOpenSearch }">
-                                        <form>
-                                            <input type="text" placeholder="Search" />
-                                            <button class="button-search"><i class="pe-7s-search"></i></button>
-                                        </form>
-                                    </div> 
-                                </div>
-                                <div class="same-style account-setting d-none d-lg-block">
+                                <!-- <button class="search-active" @click="isOpenSearch = !isOpenSearch"><i class="pe-7s-search"></i></button> -->
+                                <div class="discover-more-btn btn-hover text-center">
+                                    <a href="tel:9824139769" style="font-weight: 900;"> <i class="pe-7s-call" style="font-weight: bold;"></i> +91 98241 39769</a>
+                                </div> 
+                            </div>
+                                <!-- <div class="same-style account-setting d-none d-lg-block">
                                     <button class="account-setting-active" @click="isOpenAccountSettings = !isOpenAccountSettings"><i class="pe-7s-user-female"></i></button>
                                     <div class="account-dropdown" :class="{ active:isOpenAccountSettings }">
                                         <ul>
@@ -67,14 +64,12 @@
                                             <li><n-link to="/my-account">my account</n-link></li>
                                         </ul>
                                     </div>
-                                </div>
+                                </div> 
                                 <div class="same-style header-compare">
-                                    <n-link to="/compare"><i class="pe-7s-shuffle"></i></n-link>
-                                    <span class="count-style">{{ compareItemCount }}</span>
+                                    <n-link to="/compare"><i class="pe-7s-call"></i></n-link>
                                 </div>
                                 <div class="same-style header-wishlist">
-                                    <n-link to="/wishlist"><i class="pe-7s-like"></i></n-link>
-                                    <span class="count-style">{{ wishlistItemCount }}</span>
+                                    <n-link to="/wishlist"><i class="pe-7s-chat"></i></n-link>
                                 </div>
                                 <div class="same-style cart-wrap">
                                     <button class="icon-cart" @click="openCart = !openCart">
@@ -82,7 +77,7 @@
                                         <span class="count-style">{{ cartItemCount }}</span>
                                     </button>
                                     <MiniCart :miniCart="{ visible:openCart }" @minicartClose="openCart = !openCart" />
-                                </div>
+                                </div> -->
                                 <div class="same-style mobile-menu-toggler d-block d-lg-none">
                                     <button class="mobile-aside-button" @click="navOpen = !navOpen">
                                         <i class="pe-7s-menu"></i>

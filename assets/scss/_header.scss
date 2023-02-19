@@ -75,7 +75,7 @@
         ul {
             display: block;
             text-align: center;
-            margin-top: -5px;
+            margin-top: 0px;
                 li{
                     display: inline-block;
                     padding: 0 15px;
@@ -318,7 +318,7 @@
 .header-right-wrap {
     display: flex;
     justify-content: flex-end;
-    margin-top: 32px;
+    margin-top: 20px;
     @media #{$md-layout}{
         margin-top: 0px;
     }
@@ -339,6 +339,7 @@
             padding: 0;
         }
         &:first-child {
+            margin-bottom:5px;
             margin-left: 0px;
         }
         &:hover > a {

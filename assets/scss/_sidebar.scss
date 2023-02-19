@@ -104,6 +104,8 @@
     .sidebar-widget-tag {
         li {
             display: inline-block;
+            border: 0 none;
+            text-align:center;
             @media #{$lg-layout}{
                 margin: 0 5px 15px 0;
             }
@@ -203,5 +205,3 @@
         margin-top: 60px;
     }
 }
-
-.borderless { border: 0 none; }

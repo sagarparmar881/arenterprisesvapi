@@ -96,7 +96,7 @@
                 prevSelectedSizeName: '',
                 prevSelectedColorName: '',
                 currentPage: 1,
-                perPage: 9,
+                perPage: 12,
                 selectedPrice: 'default'
             }
         },
@@ -223,7 +223,7 @@
 
         head() {
             return {
-                title: "Shop grid right sidebar"
+                title: "Homepage"
             }
         }
     };

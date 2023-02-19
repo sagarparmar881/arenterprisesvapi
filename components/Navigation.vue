@@ -123,7 +123,7 @@
                 <li><n-link to="/terms-conditions">Terms Conditions</n-link></li>
             </ul>
         </li>
-        <li>
+        <!-- <li>
             <n-link to="/blog">Blog <i class="fa fa-angle-down"></i></n-link>
             <ul class="submenu">
                 <li>
@@ -139,7 +139,7 @@
                     <n-link to="/blog/a-guide-to-latest-trends-product">blog details</n-link>
                 </li>
             </ul>
-        </li>
+        </li> -->
         <li>
             <n-link to="/about">About Us </n-link>
         </li>
