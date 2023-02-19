@@ -195,7 +195,7 @@
         "description": "Keeping home clean & hygienic is an everyday necessity. A healthy & hygienic surrounding helps maintaining good personal heath. our aim is to make home cleaning less like chore & more convenient these impeccably designed easy to use & easy to maintain products range from toilet brushes, sink brushes, broom brushes, tile brushes, cob web brushes, dust pans, bathroom wipers, kitchen wipers to sponge wipes & utensils scrubs. All our products are designed & manufactured with long term durability in mind."
     },
     {
-        "id": 10,
+        "id": 11,
         "images": [
             "/img/product/01-industrial-housekeeping/industrial-mat-01.jpg",
             "/img/product/01-industrial-housekeeping/industrial-mat-02.jpg"
@@ -214,7 +214,7 @@
         "description": "Industrial mats are essential components in various industrial settings, providing safety, comfort, and durability. They serve as floor covering materials in areas where workers spend a lot of time standing, such as manufacturing facilities, warehouses, and workshops."
     },
     {
-        "id": 11,
+        "id": 12,
         "images": [
             "/img/product/01-industrial-housekeeping/wet-mop-01.jpg",
             "/img/product/01-industrial-housekeeping/wet-mop-02.jpg"
@@ -234,7 +234,7 @@
         "description": "Wet floor mop set is perfect for commercial and home floor cleaning jobs. And it includes a good quality head with looped ends for optimal absorption without fraying."
     },
     {
-        "id": 12,
+        "id": 13,
         "images": [
             "/img/product/01-industrial-housekeeping/wringer-trolley-01.jpg",
             "/img/product/01-industrial-housekeeping/wringer-trolley-02.jpg",
@@ -256,7 +256,7 @@
         "description": "Easy to mop and squeeze dirty water without getting your hands wet or dirty. Light weight and easy to maneuver thanks to 4 castor wheels"
     },
     {
-        "id": 13,
+        "id": 14,
         "images": [
             "/img/product/01-industrial-housekeeping/urinal-screen-01.jpg",
             "/img/product/01-industrial-housekeeping/urinal-screen-02.jpg"
@@ -276,7 +276,7 @@
         "description": "Wide range of Urinal Screen with strong & Mild Fragrances."
     },
     {
-        "id": 14,
+        "id": 15,
         "images": [
             "/img/product/03-swimming-pool-cleaning-material/swimming-pool-ladder-01.jpg",
             "/img/product/03-swimming-pool-cleaning-material/swimming-pool-ladder-02.jpg"
@@ -296,7 +296,7 @@
         "description": "This pool ladder is made by high quality stainless material which could let this item would not stain in the swimming pool and would not pollute the water in the swimming pool, durable for years."
     },
     {
-        "id": 15,
+        "id": 16,
         "images": [
             "/img/product/03-swimming-pool-cleaning-material/tcca-01.jpg"
         ],
@@ -314,7 +314,7 @@
         "description": "Used in the swimming pool for cleaning purpose. "
     },
     {
-        "id": 16,
+        "id": 17,
         "images": [
             "/img/product/03-swimming-pool-cleaning-material/swimming-pool-hose-01.jpg",
             "/img/product/03-swimming-pool-cleaning-material/swimming-pool-hose-02.jpg"
@@ -334,7 +334,7 @@
         "description": "The vacuum hose for swimming pools is made to withstand strong pump suction without collapsing, twisting, or straining. The heavy-duty hose, which is composed of heavier weight material and is guaranteed not to collapse even under demanding operating conditions and maximum suction and rigorous operating conditions. "
     },
     {
-        "id": 17,
+        "id": 18,
         "images": [
             "/img/product/03-swimming-pool-cleaning-material/swimming-cleaning-brush-01.jpg",
             "/img/product/03-swimming-pool-cleaning-material/swimming-cleaning-brush-02.jpg"
@@ -354,7 +354,7 @@
         "description": "Pool brush for clearing any pools of dirt and algae, hot tub and spa surfaces. Durable all-weather materials withstand high temperatures. Curved brush design is perfect for cleaning pool walls, pool floors or any pool surface. "
     },
     {
-        "id": 18,
+        "id": 19,
         "images": [
             "/img/product/03-swimming-pool-cleaning-material/swimming-net-01.jpg",
             "/img/product/03-swimming-pool-cleaning-material/swimming-net-02.jpg"
@@ -374,7 +374,7 @@
         "description": "Swimming Net used to clean swimming pools. Utilize the skimmer deep bag, which has a large capacity and a fine mesh for capturing small waste like pine cones and small twigs as well as trapping floating trash and even the smallest insects. "
     },
     {
-        "id": 19,
+        "id": 20,
         "images": [
             "/img/product/03-swimming-pool-cleaning-material/tcca-tablets-01.jpg",
             "/img/product/03-swimming-pool-cleaning-material/tcca-tablets-02.jpg",
@@ -397,7 +397,7 @@
         "description": "Contains 90% chlorine in a high concentration in a stable, soluble form. Powerful biofilm and algae cleanser. Designed for all types of swimming pools. Destroys microorganisms and keeps water clean."
     },
     {
-        "id": 20,
+        "id": 21,
         "images": [
             "/img/product/01-industrial-housekeeping/toilet-cleaner-01.jpg",
             "/img/product/01-industrial-housekeeping/toilet-cleaner-02.jpg"
@@ -416,7 +416,7 @@
         "description": "DOCTOR SHINE is an advance formulations for cleaning all types of toilet. It removes all tough stain & Kills more than 99% germs."
     },
     {
-        "id": 21,
+        "id": 22,
         "images": [
             "/img/product/01-industrial-housekeeping/wiper-01.jpg",
             "/img/product/01-industrial-housekeeping/wiper-02.jpg"
@@ -436,7 +436,7 @@
         "description": "Helps instantly dry floors with single swipe clean. Wiper comes with a Stainless Steel long pipe. Sharp rubber edge for instant cleaning"
     },
     {
-        "id": 22,
+        "id": 23,
         "images": [
             "/img/product/01-industrial-housekeeping/ladder-01.jpg",
             "/img/product/01-industrial-housekeeping/ladder-02.jpg"
@@ -455,7 +455,7 @@
         "description": "Helps instantly dry floors with single swipe clean. Wiper comes with a Stainless Steel long pipe. Sharp rubber edge for instant cleaning"
     },
     {
-        "id": 23,
+        "id": 24,
         "images": [
             "/img/product/01-industrial-housekeeping/liquid-detergent-01.jpg",
             "/img/product/01-industrial-housekeeping/liquid-detergent-02.jpg"
@@ -475,7 +475,7 @@
         "description": "For tough stains, pre-soaking in detergent soultion."
     },
     {
-        "id": 24,
+        "id": 25,
         "images": [
             "/img/product/01-industrial-housekeeping/multisurface-floor-cleaner-01.jpg",
             "/img/product/01-industrial-housekeeping/multisurface-floor-cleaner-02.jpg"
@@ -496,7 +496,7 @@
         "description": "A hygenic home cleaner having powerful formula which dislodg dirt and stains completely, cleaning prevents the gems leaving behind pleasant floral fragrance."
     },
     {
-        "id": 25,
+        "id": 26,
         "images": [
             "/img/product/01-industrial-housekeeping/liquid-dishwash-01.jpg",
             "/img/product/01-industrial-housekeeping/liquid-dishwash-02.jpg"
@@ -516,7 +516,7 @@
         "description": "It gives shine to utensils. Neutralises odour. Removes tough oil and grease."
     },
     {
-        "id": 26,
+        "id": 27,
         "images": [
             "/img/product/01-industrial-housekeeping/white-phenyl-01.jpg",
             "/img/product/01-industrial-housekeeping/white-phenyl-02.jpg"
@@ -533,6 +533,225 @@
             "phenyl"
         ],
         "description": "A hygienic home cleaner having powerful formula which dislodge dirt and stains completely, cleaning prevents the gems leaving behind Fresh Pine fragrance. Keep mosquitos, files and ants away."
+    },
+    {
+        "id": 28,
+        "images": [
+            "/img/product/05-cleaning-chemicals/alfox-01.jpg",
+            "/img/product/05-cleaning-chemicals/alfox-02.jpg",
+            "/img/product/05-cleaning-chemicals/alfox-03.jpg"
+
+        ],
+        "title": "Alphox 200",
+        "rating": 4,
+        "categoryid": 5,
+        "category": [
+            "cleaning-chemicals"
+        ],
+        "tag": [
+            "cleaning",
+            "chemical",
+            "alphox"
+        ],
+        "description": "Alphox 200 is an ethylene oxide condensate of alkyl phenol. It is a pale coloured liquid soluble in water, vegetable oil, alcohol, Glycol ethers, chloroform but insoluble in mineral oil and kerosene. The product is made in the plant with the fully automated DCS system which ensures consistent quality of Alphox 200."
+    },
+    {
+        "id": 29,
+        "images": [
+            "/img/product/05-cleaning-chemicals/capb-01.jpg",
+            "/img/product/05-cleaning-chemicals/capb-02.jpg"
+        ],
+        "title": "CAPB Liquid",
+        "rating": 4,
+        "categoryid": 5,
+        "category": [
+            "cleaning-chemicals"
+        ],
+        "tag": [
+            "cleaning",
+            "chemical",
+            "capb",
+            "liquid",
+            "surfactants"
+        ],
+        "description": "This product is widely used in shampoo, bath liquid, liquid soap and household detergents, thanks to the warm performance become good preparation baby shampoo, bubble bath, and the main components of the skin care products.In the skin and hair care formula is a kind of excellent softening conditioner, also can be used as a wetting agent, thickening agent, antistatic agent, fungicide and soft treatment agent in textile dyeing and printing industry etc."
+    },
+    {
+        "id": 30,
+        "images": [
+            "/img/product/05-cleaning-chemicals/coco-die-ethanol-amide-01.jpg",
+            "/img/product/05-cleaning-chemicals/coco-die-ethanol-amide-02.jpg"
+        ],
+        "title": "CDEA Chemical",
+        "rating": 4,
+        "categoryid": 5,
+        "category": [
+            "cleaning-chemicals"
+        ],
+        "tag": [
+            "cleaning",
+            "chemical",
+            "cdea",
+            "liquid"
+        ],
+        "description": "COCODIETHANOLAMIDE (CDEA) World Chem Industries is formulating Coco Diethanolamide (CDEA) by the reaction of fatty acids mixture acquired from coconut oils, with diethanolamine. The common applications of this product is in bath products such as hand soaps and shampoos (as foaming agent); and in cosmetics (as emulsifying agent)."
+    },
+    {
+        "id": 31,
+        "images": [
+            "/img/product/05-cleaning-chemicals/coco-mono-ethanol-amide-01.jpg",
+            "/img/product/05-cleaning-chemicals/coco-mono-ethanol-amide-02.jpg"
+        ],
+        "title": "CMEA Chemical",
+        "rating": 4,
+        "categoryid": 5,
+        "category": [
+            "cleaning-chemicals"
+        ],
+        "tag": [
+            "cleaning",
+            "chemical",
+            "cmea",
+            "surfactants"
+        ],
+        "description": "Cocomono ethanol amide (CMEA) is a non ionic surfactant. It is used in personal care products like shampoos as a foam boosting agent. It also acts as a good viscosity builder in skin and hair care products."
+    },
+    {
+        "id": 32,
+        "images": [
+            "/img/product/05-cleaning-chemicals/glycerine-01.jpg",
+            "/img/product/05-cleaning-chemicals/glycerine-02.jpg"
+        ],
+        "title": "Glycerine",
+        "rating": 4,
+        "categoryid": 5,
+        "category": [
+            "cleaning-chemicals"
+        ],
+        "tag": [
+            "cleaning",
+            "chemical",
+            "glycerin"
+        ],
+        "description": "Glycerin is a simple polyol (sugar alcohol) compound. It is a colorless, odorless, viscous liquid that is widely used in pharmaceutical formulations. Glycerol has three hydroxyl groups that are responsible for its solubility in water and its hygroscopic nature. The glycerol backbone is central to all lipids known as triglycerides. Glycerol is sweet-tasting and generally considered non-toxic."
+    },
+    {
+        "id": 33,
+        "images": [
+            "/img/product/05-cleaning-chemicals/labsa-01.jpg",
+            "/img/product/05-cleaning-chemicals/labsa-02.jpg"
+        ],
+        "title": "LABSA",
+        "rating": 4,
+        "categoryid": 5,
+        "category": [
+            "cleaning-chemicals"
+        ],
+        "tag": [
+            "cleaning",
+            "chemical",
+            "labsa",
+            "surfactant"
+        ],
+        "description": "Linear alkyl benzene sulphonic acid, also known as LABSA is a synthetic chemical surfactant, which is a widely used industrial detergent. It is used in washing powder, detergent powder, oil soap, cleaning powder and detergent cake."
+    },
+    {
+        "id": 34,
+        "images": [
+            "/img/product/05-cleaning-chemicals/pine-oil-01.jpg"
+        ],
+        "title": "Pine Oil",
+        "rating": 4,
+        "categoryid": 5,
+        "category": [
+            "cleaning-chemicals"
+        ],
+        "tag": [
+            "cleaning",
+            "chemical",
+            "pineoil",
+            "fragrance"
+        ],
+        "description": "Pine oil is a colorless to pale yellow essential oil. Depending on its source, pine oil may either have a fresh, earthy, and forest-like fragrance or a strong, dry, balsamic, turpentine-like odor. alkyl benzene sulphonic acid, also known as LABSA is a synthetic chemical surfactant, which is a widely used industrial detergent. It is used in washing powder, detergent powder, oil soap, cleaning powder and detergent cake."
+    },
+    {
+        "id": 35,
+        "images": [
+            "/img/product/05-cleaning-chemicals/polysurbate80-01.jpg",
+            "/img/product/05-cleaning-chemicals/polysurbate80-02.jpg"
+        ],
+        "title": "Polysorbate",
+        "rating": 4,
+        "categoryid": 5,
+        "category": [
+            "cleaning-chemicals"
+        ],
+        "tag": [
+            "cleaning",
+            "chemical",
+            "polysurbate80"
+        ],
+        "description": "Polysorbate 80 is derived from polyethoxylated sorbitan and oleic acid. The hydrophilic groups in this compound are polyethers also known as polyoxyethylene groups, which are polymers of ethylene oxide."
+    },
+     {
+        "id": 36,
+        "images": [
+            "/img/product/05-cleaning-chemicals/sles-liquid-01.jpg",
+            "/img/product/05-cleaning-chemicals/sles-liquid-02.jpg"
+        ],
+        "title": "SLES Liquid",
+        "rating": 4,
+        "categoryid": 5,
+        "category": [
+            "cleaning-chemicals"
+        ],
+        "tag": [
+            "cleaning",
+            "chemical",
+            "sles",
+            "liquid"
+        ],
+        "description": "SLES is prepared by ethoxylation of dodecyl alcohol. The resulting ethoxylate is converted to a half ester of sulfuric acid, which is then neutralized by conversion to the sodium salt."
+    },
+    {
+        "id": 37,
+        "images": [
+            "/img/product/05-cleaning-chemicals/sorbitan-monooleate-01.jpg",
+            "/img/product/05-cleaning-chemicals/sorbitan-monooleate-02.jpg"
+        ],
+        "title": "Liquid Sorbitan Monooleate",
+        "rating": 4,
+        "categoryid": 5,
+        "category": [
+            "cleaning-chemicals"
+        ],
+        "tag": [
+            "cleaning",
+            "chemical",
+            "sorbitan",
+            "liquid"
+        ],
+        "description": "We provide sorbitol monooleate emmulsifier for Explosives, Cosmatics, lubricants and food industries. These products are highly acclaimed for their properties like purity, high effectiveness, longer shelf life, glossy finish and accurate composition."
+    },
+    {
+        "id": 38,
+        "images": [
+            "/img/product/05-cleaning-chemicals/turkey-red-oil-01.jpg",
+            "/img/product/05-cleaning-chemicals/turkey-red-oil-02.jpg"
+        ],
+        "title": "Turkey Red Oil",
+        "rating": 4,
+        "categoryid": 5,
+        "category": [
+            "cleaning-chemicals"
+        ],
+        "tag": [
+            "cleaning",
+            "chemical",
+            "red-oil",
+            "oil"
+        ],
+        "description": "Turkey Red Oil is also known as Sulfated Castor Oil. It is the only oil that will completely disperse in water. The oil is expressed from the seed. Sulfated castor oil is created by adding sulfuric acid to castor oil, and is considered the first synthetic detergent. Turkey Red Oil has a distinct and heavy scent. It is a surfactant and therefore makes a wonderful base for a bath oil as it mixes well with water, producing a milk bath."
     }
 
 ]

@@ -95,11 +95,11 @@
                             </div>
                         </div> -->
                         <div class="pro-details-quality">
-                            <div class="cart-plus-minus">
+                            <!-- <div class="cart-plus-minus">
                                 <button @click="decreaseQuantity()" class="dec qtybutton">-</button>
                                 <input class="cart-plus-minus-box" type="text" :value="singleQuantity" readonly>
                                 <button @click="increaseQuantity()" class="inc qtybutton">+</button>
-                            </div>
+                            </div> -->
                             <div class="pro-details-cart btn-hover">
                                 <!-- <button @click="addToCart(product)">Inquire Now</button> -->
                                 <button @click="inquireNow(product)">Inquire Now</button>

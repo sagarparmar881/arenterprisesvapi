@@ -3,7 +3,7 @@
         <HeaderWithTopbar containerClass="container" />
         <Breadcrumb :pageTitle="product.title" />
         <ProductDetailsWrapper :product="product" />
-        <ProductDetailsDescriptionReview />
+        <!-- <ProductDetailsDescriptionReview /> -->
         <TheFooter />
     </div>
 </template>
