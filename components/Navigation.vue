@@ -1,8 +1,8 @@
 <template>
     <ul>
         <li>
-            <n-link to="/">Homes <i class="fa fa-angle-down"></i></n-link>
-            <ul class="mega-menu mega-menu-padding">
+            <n-link to="/">Home <!-- <i class="fa fa-angle-down"></i> --></n-link>
+           <!--  <ul class="mega-menu mega-menu-padding">
                 <li>
                     <ul>
                         <li class="mega-menu-title">
@@ -48,7 +48,7 @@
                         </li>
                     </ul>
                 </li>
-            </ul>
+            </ul> -->
         </li>
         <li>
             <n-link to="/shop"> Shop <!-- <i class="fa fa-angle-down"> --></i></n-link>
@@ -108,7 +108,7 @@
                 </li>
             </ul> -->
         </li>
-        <li>
+        <!-- <li>
             <n-link to="">Pages <i class="fa fa-angle-down"></i></n-link>
             <ul class="submenu">
                 <li><n-link to="/cart">Cart</n-link></li>
@@ -122,7 +122,7 @@
                 <li><n-link to="/privacy-policy">Privacy Policy</n-link></li>
                 <li><n-link to="/terms-conditions">Terms Conditions</n-link></li>
             </ul>
-        </li>
+        </li> -->
         <!-- <li>
             <n-link to="/blog">Blog <i class="fa fa-angle-down"></i></n-link>
             <ul class="submenu">
