@@ -7,17 +7,18 @@
         <div class="shop-area pt-100 pb-100">
             <div class="container">
                 <div class="row flex-row-reverse">
+
                     <div class="col-lg-9">
                         <!-- shop top bar -->
                         <div class="shop-top-bar">
                             <div class="select-showing-wrap">
-                                <div class="shop-select">
+                                <!-- <div class="shop-select">
                                     <select v-model="selectedPrice">
                                         <option value="default">Default</option>
                                         <option value="low2high">Price - Low to High</option>
                                         <option value="high2low">Price - High to Low</option>
                                     </select>
-                                </div>
+                                </div> -->
                                 <p>Showing {{perPage * currentPage - perPage + 1}} to {{perPage * currentPage > filterItems.length ? filterItems.length : perPage * currentPage}} of {{filterItems.length}} result</p>
                             </div>
                             <div class="shop-tab">
@@ -49,9 +50,11 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-3">
+                     <div class="col-lg-3">
                         <ShopSidebar classes="mr-30" />
                     </div>
+
+                    
                 </div>
             </div>
         </div>
