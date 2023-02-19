@@ -1,5 +1,12 @@
 <template>
+    <!-- New Exp. Start -->
+    
+     <!-- New Exp. End -->
     <div class="shop-page-wrapper">
+        <TheHeader />
+        <!-- <HeaderOffcanvasMenuWithTransparent /> -->
+        <HeroSliderSix />
+        <WelcomeMessage class="pt-95 pb-60" />
         <HeaderWithTopbar containerClass="container" />
         <Breadcrumb pageTitle="shop grid right sidebar" />
         
@@ -7,17 +14,20 @@
         <div class="shop-area pt-100 pb-100">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-9">
+                    <ShopTopbar classes="ml-30" />
+                </div>
+                <div class="row">
+                    <div class="col-lg-12 mt-30">
                         <!-- shop top bar -->
                         <div class="shop-top-bar">
                             <div class="select-showing-wrap">
-                                <div class="shop-select">
+                                <!-- <div class="shop-select">
                                     <select v-model="selectedPrice">
                                         <option value="default">Default</option>
                                         <option value="low2high">Price - Low to High</option>
                                         <option value="high2low">Price - High to Low</option>
                                     </select>
-                                </div>
+                                </div> -->
                                 <p>Showing {{perPage * currentPage - perPage + 1}} to {{perPage * currentPage > filterItems.length ? filterItems.length : perPage * currentPage}} of {{filterItems.length}} result</p>
                             </div>
                             <div class="shop-tab">
@@ -37,7 +47,7 @@
                         <!-- shop product -->
                         <div class="shop-bottom-area mt-35">
                             <div class="row product-layout" :class="{ 'list': layout === 'list', 'grid three-column': layout === 'threeColumn', 'grid two-column': layout === 'twoColumn' }">
-                                <div class="col-xl-4 col-sm-6" v-for="(product, index) in getItems" :key="index" >
+                                <div class="col-xl-2 col-sm-6 col-6" v-for="(product, index) in getItems" :key="index" >
                                     <ProductGridItem :product="product" :layout="layout"  />
                                 </div>
                             </div>
@@ -49,9 +59,10 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-3">
-                        <ShopSidebar classes="ml-30" />
-                    </div>
+                    <!-- <div class="col-lg-3">
+                            <ShopTopbar classes="ml-30" /> 
+                            Hidden Default Sidebar of Template and added on above to filter. 
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -65,6 +76,10 @@
 <script>
     export default {
         components: {
+             TheHeader: () => import('@/components/TheHeader'),
+            HeaderOffcanvasMenuWithTransparent: () => import('@/components/HeaderOffcanvasMenuWithTransparent'),
+            HeroSliderSix: () => import('@/components/hero/HeroSliderSix'),
+            WelcomeMessage: () => import('@/components/WelcomeMessage'),
             HeaderWithTopbar: () => import('@/components/HeaderWithTopbar'),
             Breadcrumb: () => import('@/components/Breadcrumb'),
             ProductGridItem: () => import('@/components/product/ProductGridItem'),
