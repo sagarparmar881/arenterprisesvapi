@@ -6,7 +6,7 @@
         <TheHeader />
         <!-- <HeaderOffcanvasMenuWithTransparent /> -->
         <HeroSliderSix />
-        <SectionTitleWithSubTitle classes="section-title-2 mt-30" title="Our Products" subTitle="Choose from wide range of products from various categories." />
+        <SectionTitleWithSubTitle classes="section-title-2 mt-30 p-3" title="Our Products" subTitle="Choose from wide range of products from various categories." />
 
         
         <!-- product items wrapper -->

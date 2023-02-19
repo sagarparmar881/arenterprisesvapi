@@ -45,13 +45,9 @@
                 <!-- <ul class="list-group flex-sm-row"> -->
                 <ul class="container float">
 
-                    <li class="float-item" v-for="(category, index) in categoryList" :key="index" style="
-                     padding: 5px; margin: 10px;">
-                        <n-link :to="`?category=${slugify(category)}`">
-            
-                            
+                    <li class="float-item category-list-item" v-for="(category, index) in categoryList" :key="index">
+                        <n-link :to="`?category=${slugify(category)}`">         
                             {{ category }}
-                        
                         </n-link>
                     </li>
                 </ul>
