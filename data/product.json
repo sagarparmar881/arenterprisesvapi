@@ -1,4 +1,5 @@
-[{
+[
+    {
         "id": 1,
         "images": [
             "/img/product/01-industrial-housekeeping/big-dustbin.jpg"
@@ -172,7 +173,7 @@
             "dustpan",
             "pan"
         ],
-        "description": "Keeping home clean & hygienic is an everyday necessity. A healthy & hygienic surrounding helps maintaining good personal heath. our aim is to make home cleaning less like chore & more convenient these impeccably designed easy to use & easy to maintain products range from toilet brushes, sink brushes, broom brushes, tile brushes, cob web brushes, dust pans, bathroom wipers, kitchen wipers to sponge wipes & utensils scrubs. All our products are designed & manufactured with long term durability in mind."
+        "description": "Keeping home clean & hygienic is an everyday necessity. A healthy & hygienic surrounding helps maintaining good personal heath. All our products are designed & manufactured with long term durability in mind."
     },
     {
         "id": 10,
@@ -253,7 +254,7 @@
             "wringertrolley",
             "trolley"
         ],
-        "description": "Easy to mop and squeeze dirty water without getting your hands wet or dirty. Light weight and easy to maneuver thanks to 4 castor wheels"
+        "description": "Easy to mop and squeeze dirty water without getting your hands wet or dirty. Light weight and easy to maneuver thanks to 4 castor wheels."
     },
     {
         "id": 14,
@@ -752,7 +753,62 @@
             "oil"
         ],
         "description": "Turkey Red Oil is also known as Sulfated Castor Oil. It is the only oil that will completely disperse in water. The oil is expressed from the seed. Sulfated castor oil is created by adding sulfuric acid to castor oil, and is considered the first synthetic detergent. Turkey Red Oil has a distinct and heavy scent. It is a surfactant and therefore makes a wonderful base for a bath oil as it mixes well with water, producing a milk bath."
-    }
-     
+    },
+    {
+        "id": 39,
+        "images": [
+            "/img/product/02-freshner-and-diffuser-oil/air-freshner-ayra.jpg"
+        ],
+        "title": "Air Freshner",
+        "rating": 4,
+        "categoryid": 2,
+        "category": [
+            "freshner-and-diffuser-oil"
+        ],
+        "tag": [
+            "freshner",
+            "air",
+            "fragrance"
+        ],
+        "description": "We introduce a wide range of Air fresheners. Has wide range of fragrances to create a new & pleasant aroma in your surroundings. This air freshener which emits fragrance on spraying. Primary used for odour elimination. The result is odour-free air that is also pollution-free and safer to breathe."
+    },
+     {
+        "id": 40,
+        "images": [
+            "/img/product/01-industrial-housekeeping/glass-cleaner-01.jpg"
+        ],
+        "title": "Glass Cleaner",
+        "rating": 4,
+        "categoryid": 1,
+        "category": [
+            "industrial-housekeeping"
+        ],
+        "tag": [
+            "industrial",
+            "housekeeping",
+            "glass",
+            "cleaner"
+        ],
+        "description": "Glass Cleaner removes dirt and dust. It can be used across glass and shiny surfaces, such as tabletops, mirrors, glass windows, fridge, oven, kitchen cabinets, furniture, car windows etc"
+    },
+    {
+        "id": 41,
+        "images": [
+            "/img/product/01-industrial-housekeeping/fabric-softner-01.jpg"
+        ],
+        "title": "Fabric Softner",
+        "rating": 4,
+        "categoryid": 1,
+        "category": [
+            "industrial-housekeeping"
+        ],
+        "tag": [
+            "industrial",
+            "housekeeping",
+            "fabric",
+            "softner"
+        ],
+        "description": "Fabric Cleaner softens, freshens, and protects your clothes from stretching, fading, and fuzz leaving them with a long-lasting Febreze-fresh floral scent you'll want to keep on sniffing. This conditioning fabric softener fights static and reduces more wrinkles than using detergent alone in the wash."
+    }     
 
 ]
