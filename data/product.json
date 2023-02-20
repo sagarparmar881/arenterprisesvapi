@@ -757,7 +757,9 @@
     {
         "id": 39,
         "images": [
-            "/img/product/02-freshner-and-diffuser-oil/air-freshner-ayra.jpg"
+            "/img/product/02-freshner-and-diffuser-oil/air-freshner-ayra-01.jpg",
+            "/img/product/02-freshner-and-diffuser-oil/air-freshner-ayra-02.jpg",
+            "/img/product/02-freshner-and-diffuser-oil/air-freshner-ayra-03.jpg"
         ],
         "title": "Air Freshner",
         "rating": 4,
@@ -809,6 +811,25 @@
             "softner"
         ],
         "description": "Fabric Cleaner softens, freshens, and protects your clothes from stretching, fading, and fuzz leaving them with a long-lasting Febreze-fresh floral scent you'll want to keep on sniffing. This conditioning fabric softener fights static and reduces more wrinkles than using detergent alone in the wash."
-    }     
+    },
+    {
+        "id": 42,
+        "images": [
+            "/img/product/01-industrial-housekeeping/bleach-powder-01.jpg"
+        ],
+        "title": "Fabric Softner",
+        "rating": 4,
+        "categoryid": 1,
+        "category": [
+            "industrial-housekeeping"
+        ],
+        "tag": [
+            "industrial",
+            "housekeeping",
+            "bleach",
+            "powder"
+        ],
+        "description": "Bleaching, stain removal & disinfection of cotton clothingin laundries, hospitals & homes."
+    }      
 
 ]
