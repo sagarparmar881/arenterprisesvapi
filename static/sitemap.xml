@@ -1,54 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-  <loc>http://arenterprisesvapi.com/</loc>
+  <loc>https://arenterprisesvapi.com/</loc>
+  <lastmod>2023-02-22T14:54:54+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://arenterprisesvapi.com/shop</loc>
+  <loc>https://arenterprisesvapi.com/shop</loc>
+  <lastmod>2023-02-22T14:54:54+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arenterprisesvapi.com/about</loc>
+  <loc>https://arenterprisesvapi.com/about</loc>
+  <lastmod>2023-02-22T14:54:54+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arenterprisesvapi.com/contact</loc>
+  <loc>https://arenterprisesvapi.com/contact</loc>
+  <lastmod>2023-02-22T14:54:54+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arenterprisesvapi.com/tel:9824139769</loc>
+  <loc>https://arenterprisesvapi.com/?category=all-categories</loc>
+  <lastmod>2023-02-22T14:54:54+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arenterprisesvapi.com/?category=all-categories</loc>
+  <loc>https://arenterprisesvapi.com/?category=industrial-housekeeping</loc>
+  <lastmod>2023-02-22T14:54:54+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arenterprisesvapi.com/?category=industrial-housekeeping</loc>
+  <loc>https://arenterprisesvapi.com/?category=freshner-and-diffuser-oil</loc>
+  <lastmod>2023-02-22T14:54:54+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arenterprisesvapi.com/?category=freshner-and-diffuser-oil</loc>
+  <loc>https://arenterprisesvapi.com/?category=cleaning-chemicals</loc>
+  <lastmod>2023-02-22T14:54:54+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arenterprisesvapi.com/?category=cleaning-chemicals</loc>
+  <loc>https://arenterprisesvapi.com/?category=swimming-pool-cleaning-material</loc>
+  <lastmod>2023-02-22T14:54:54+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arenterprisesvapi.com/?category=swimming-pool-cleaning-material</loc>
+  <loc>https://arenterprisesvapi.com/shop?category=all-categories</loc>
+  <lastmod>2023-02-22T14:54:54+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arenterprisesvapi.com/callto:3965410</loc>
+  <loc>https://arenterprisesvapi.com/shop?category=industrial-housekeeping</loc>
+  <lastmod>2023-02-22T14:54:54+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arenterprisesvapi.com/shop?category=all-categories</loc>
+  <loc>https://arenterprisesvapi.com/shop?category=freshner-and-diffuser-oil</loc>
+  <lastmod>2023-02-22T14:54:54+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arenterprisesvapi.com/shop?category=industrial-housekeeping</loc>
+  <loc>https://arenterprisesvapi.com/shop?category=cleaning-chemicals</loc>
+  <lastmod>2023-02-22T14:54:54+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arenterprisesvapi.com/shop?category=freshner-and-diffuser-oil</loc>
+  <loc>https://arenterprisesvapi.com/shop?category=swimming-pool-cleaning-material</loc>
+  <lastmod>2023-02-22T14:54:54+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
-<url>
-  <loc>http://arenterprisesvapi.com/shop?category=cleaning-chemicals</loc>
-</url>
-<url>
-  <loc>http://arenterprisesvapi.com/shop?category=swimming-pool-cleaning-material</loc>
-</url>
-<url>
-  <loc></loc>
-</url>
+
+
 </urlset>
