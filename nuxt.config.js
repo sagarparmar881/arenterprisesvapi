@@ -13,7 +13,9 @@ export default {
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: '' }
+            { hid: 'description', name: 'description', content: 'Welcome to A R Enterprises, a go-to retailer for all products, like detergent powder, multipurpose liquids, and other cleaning materials. ' },
+            { name: 'robots', content: 'follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large' },
+            { name: 'keywords', content: 'ar, arenterprises, arenterprisesvapi, cleaning, industrial,housekeeping,dustbin,cleaning,carry,basket,cleaningkit,kit,drymop,mop,diffuser-oil,freshner,diffuser,diffusermachine,diffuseroil,toiletbrush,chemical,dustpan,pan,wetmop,wet,mat,wringertrolley,trolley,urinalscreen,urinal,swimming,pool,ladder,swimmingpool,granules,hose,vaccum,brush,net,swimmingnet,tcca,tablets,tabletdrum,drum,toilet,cleaner,floor,wiper,liquid,detergent,multisurface,dishwash industrial,phenyl,alphox,capb,surfactants,cdea,cmea,glycerin,labsa,surfactant,pineoil,fragrance,polysurbate80,sles,sorbitan,red-oil,oil,air,glass,fabric,softner,bleach,powder' }
         ],
         link: [
             { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
