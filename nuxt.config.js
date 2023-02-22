@@ -59,6 +59,7 @@ export default {
     modules: [
         '@nuxtjs/style-resources',
         '@nuxtjs/axios',
+        '@nuxtjs/sitemap'
     ],
 
     styleResources: {
