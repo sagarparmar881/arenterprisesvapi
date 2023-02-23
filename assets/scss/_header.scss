@@ -43,7 +43,7 @@
     }
 }
 .logo {
-	margin-top: 32px;
+	margin-top: 5px;
     @media #{$md-layout, $xs-layout}{
         margin-top: 0px;
     }
@@ -299,9 +299,20 @@
 	line-height: 75px;
 }
 
-.is-sticky .logo ,
+.is-sticky .main-menu {
+    margin-top: 20px;
+}
+
+
 .is-sticky .header-right-wrap {
-	margin-top: 22px;
+	margin-top: 20px;
+    @media #{$md-layout, $xs-layout, $md-layout}{
+        margin-top: 0px;
+    }
+}
+
+.is-sticky .logo  {
+    margin-top: 5px;
     @media #{$md-layout, $xs-layout, $md-layout}{
         margin-top: 0px;
     }
@@ -1150,7 +1161,7 @@
     }
     .logo,
     .header-right-wrap {
-        margin-top: 22px;
+        margin-top: 2px;
         margin-bottom: 18px;
         @media #{$md-layout, $xs-layout}{
             margin-top: 2px;
