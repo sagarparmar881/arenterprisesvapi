@@ -40,5 +40,4 @@ http://arenterprisesvapi.com/
 
 ## Other Links
 
-Designs: shorturl.at/sxCU1
-
+Designs: https://bit.ly/3KV7HW9
