@@ -38,3 +38,7 @@ https://arenterprisesvapi.vercel.app/
 
 http://arenterprisesvapi.com/
 
+## Other Links
+
+Designs: shorturl.at/sxCU1
+
