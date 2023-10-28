@@ -1,7 +1,9 @@
 
 # A R Enterprises Vapi
 
-This is repo for website built for A R Enterprises, Cleaning Products Manufacturer in Vapi.
+This repository contains a website built for A R Enterprises, a cleaning products manufacturer in Vapi, India, using Nuxt.js. Nuxt.js is a Vue.js framework for building universal Vue applications. Universal Vue applications can be rendered on the server, which makes them faster and more SEO-friendly than traditional client-side rendered Vue applications.
+
+The A R Enterprises website is a simple but effective website that showcases the company's products and services. The website features a homepage with a brief overview of the company, a products page with detailed information about the company's cleaning products, and a contact page where visitors can get in touch with the company.
 
 ![](https://github.com/sagarparmar881/arenterprisesvapi/blob/master/static/img/preview/arenterprises-vapi-preview.gif)
 
